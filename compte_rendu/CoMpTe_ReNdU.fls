@@ -1,0 +1,15 @@
+PWD /home/michael/Documents/BoulotAskip/algo/algo_bleuezm_mallerec/compte_rendu
+INPUT /usr/share/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/latex.fmt
+INPUT CoMpTe_ReNdU.tex
+OUTPUT CoMpTe_ReNdU.log
+INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texmf-dist/tex/latex/base/size11.clo
+INPUT /usr/share/texmf-dist/tex/latex/base/size11.clo
+INPUT /usr/share/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
+INPUT CoMpTe_ReNdU.tex
+INPUT CoMpTe_ReNdU.tex
