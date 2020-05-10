@@ -1,16 +1,16 @@
 Project Algo
 ===========
 
-Authors: Michael Bleuez and Clement Malleret
+Authors: Michael Bleuez and a friend who may want to remain anonymous
 --------------------------------------------
 
 **Goal**:
 The project aims to find the size of "clusters" within a set of points.
-(A cluster is a connex composant)
+(A cluster is a connex composant, 2 points being 'in contact' iff they are within a given distance of each other)
 
 **Performance**:
 * A perfomance table (versions of the program, input format and execution time) is available in math/perfs.ods
-* Complexity is roughly of __O(n.log(n).a^k)__ with n the number of points, a~2.2 a constant and k dimension of input space,
+* Complexity is roughly of __O(n.log(n).a^k)__ with n the number of points, where a~2.2 and k is the dimension of input space,
 	however actual execution time vary a lot depending on properties of input;
 	1. how much there are points interlinked (big clusters are detrimental in general) (or how big is distance relative to number of points)
 	2. randomness of the distribution: uniformly distributed allow faster resolution, **to a big extent**
